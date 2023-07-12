@@ -1,4 +1,4 @@
 # Astro-Party-cpp
 
 
-Recreation of Astro Part in C++
+Recreation of Astro Party in C++ because I don't really know Rust yet lmao
